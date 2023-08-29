@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Malki Nawal</h1>
 <h3 align="center">A passionate full-stack developer from Morocco</h3>
 
+- 🔭 I’m currently working on [My own website](https://github.com/NawalMalki/Malki_Nawal)
+
 - 🌱 I’m currently learning **react , JavaScript**
 
 - 📫 How to reach me **malkinawal2004@gmail.com**
