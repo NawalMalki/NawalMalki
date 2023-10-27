@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **react , JavaScript**
 
-- 📝 I regularly write articles on [https://codingquill.tumblr.com/](https://codingquill.tumblr.com/)
-
 - 📫 How to reach me **malkinawal2004@gmail.com**
 
 
