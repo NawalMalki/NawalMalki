@@ -1,4 +1,4 @@
-# Malki Nawal - Développeur Full Stack Passionné 🚀
+# Développeur Full Stack Passionné 🚀
 
 ### À propos de moi
 Je suis un développeur Full Stack passionné basé au Maroc.
