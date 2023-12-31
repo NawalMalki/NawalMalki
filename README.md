@@ -7,9 +7,6 @@ Je suis un développeur Full Stack passionné basé au Maroc.
 - 🌱 J'apprends actuellement **React** et **Laravel**
 - 📫 Comment me contacter : **malkinawal2004@gmail.com**
 
-### Réseaux sociaux
-[LinkedIn](https://linkedin.com/in/nawal-malki)
-
 ### Langages et Outils
 - C
 - C++
