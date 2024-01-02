@@ -1,6 +1,7 @@
 # Développeur Full Stack Passionné 🚀
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/NawalMalki?cardType=octocat&preferLogin=false)](https://git.io/awesome-stats-card) 
+
 Je suis développeur Full Stack passionné basé au Maroc.
 
 - 🔭 Je travaille actuellement sur [mon propre site web](https://github.com/NawalMalki/Malki_Nawal)
