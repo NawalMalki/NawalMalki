@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=26&pause=1000&color=060F47&center=true&vCenter=true&multiline=true&random=false&width=454&lines=%F0%9F%92%99Programming+is+fun+!+%F0%9F%92%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=26&pause=1000&color=060F47&center=true&vCenter=true&multiline=true&random=false&width=454&lines=%F0%9F%92%99Programming+is+fun%F0%9F%92%99)](https://git.io/typing-svg)
 <hr>
 
 Je suis développeur Full Stack passionné basé au Maroc.
