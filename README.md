@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=cambria&weight=900&pause=1000&color=060F47&center=true&vCenter=true&multiline=true&random=false&width=435&lines=MALKI+NAWAL+%7C+D%C3%A9veloppeur+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=cambria&weight=900&pause=1000&color=060F47&center=true&vCenter=true&multiline=true&random=false&width=435&lines=%F0%9F%92%99Programming+is+fun+!+%F0%9F%92%99)](https://git.io/typing-svg)
 <hr>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/NawalMalki?cardType=octocat&preferLogin=false)](https://git.io/awesome-stats-card) 
