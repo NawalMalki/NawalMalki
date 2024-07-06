@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Malki Nawal</h1>
-<h3 align="center">A passionate full stack developer from Morocco</h3>
+<h1 align="center">Salut 👋, c'est Nawal</h1>
+<img src="https://github.com/NawalMalki/NawalMalki/blob/main/header.png"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nawalmalki&label=Profile%20views&color=0e75b6&style=flat" alt="nawalmalki" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nawalmalki" alt="nawalmalki" /></a> </p>
 
 - 🔭 I’m currently working on [https://github.com/HaddoucheSara/Neonathal_CHU_PFA](https://github.com/HaddoucheSara/Neonathal_CHU_PFA)
 
@@ -25,3 +22,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawalmalki&show_icons=true&locale=en&layout=compact" alt="nawalmalki" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawalmalki&show_icons=true&locale=en" alt="nawalmalki" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nawalmalki&label=Profile%20views&color=0e75b6&style=flat" alt="nawalmalki" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nawalmalki" alt="nawalmalki" /></a> </p>
