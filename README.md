@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nawal 👩🏻‍💻</h1>
-<img src="[https://github.com/NawalMalki/NawalMalki/blob/main/header.png](https://github.com/NawalMalki/NawalMalki/blob/main/English-header.png)"/>
+<img src="https://github.com/NawalMalki/NawalMalki/blob/main/English-header.png"/>
 
 
 - 🔭 I’m currently working on [https://github.com/HaddoucheSara/Neonathal_CHU_PFA](https://github.com/HaddoucheSara/Neonathal_CHU_PFA)
