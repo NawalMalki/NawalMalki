@@ -2,11 +2,11 @@
 <img src="https://github.com/NawalMalki/NawalMalki/blob/main/English-header.png"/>
 
 
-- 🔭 I’m currently working on [https://github.com/HaddoucheSara/Neonathal_CHU_PFA](https://github.com/HaddoucheSara/Neonathal_CHU_PFA)
+- 🔭 I’m currently working on creating my own website (The story of my life)
 
 - 🌱 I’m currently learning **Deep learning**
 
-- 📝 I regularly write articles on [https://codingquill.tumblr.com/](https://codingquill.tumblr.com/)
+- 📝 [My personal blog](https://codingquill.tumblr.com/)
 
 - 📫 How to reach me **malkinawal2004@gmail.com**
 
