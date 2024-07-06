@@ -20,9 +20,7 @@
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawalmalki&show_icons=true&locale=en&layout=compact" alt="nawalmalki" /></p>
   </div>
 
-  <div style="flex: 1 1 calc(43.33% - 10px); margin: 5px;">
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nawalmalki&show_icons=true&locale=en" alt="nawalmalki" /></p>
-  </div>
+  
 
   
   <p align="left">
