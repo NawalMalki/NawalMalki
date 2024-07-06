@@ -16,7 +16,7 @@
 </ul>
 
 
-  <div style="margin: 5px;">
+  <div>
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawalmalki&show_icons=true&locale=en&layout=compact" alt="nawalmalki" /></p>
   </div>
 
