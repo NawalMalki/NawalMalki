@@ -13,6 +13,10 @@
 <ul>
   <li>💻 <a href="https://mlk-nawal-site.vercel.app/">My portfolio</a></li>
   <li>📝 <a href="https://codingquill.tumblr.com/">My personal blog</a> </li>
+</ul>
+
+<h3 align="left">Get in touch with me</h3>
+<ul>
   <li>📩 <a href="mailto:malkinawal2004@gmail.com">malkinawal2004@gmail.com</a></li>
 </ul>
 
