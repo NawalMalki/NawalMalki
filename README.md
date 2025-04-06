@@ -3,9 +3,9 @@
 <img src="https://github.com/NawalMalki/NawalMalki/blob/main/English-header.png"/>
 
 
-- 🔭 I’m currently working on creating my own website (The story of my life)
+- 🔭 I’m currently working on a business idea that'll help people out.
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently learning **Machine learning**
 
 
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Get in touch with me</h3>
 <ul>
-  <li>📩 <a href="mailto:malkinawal2004@gmail.com">malkinawal2004@gmail.com</a></li>
+  <li>📩 <a href="mailto:nawal.malki.engineering@gmail.com">nawal.malki.engineering@gmail.com</a></li>
 </ul>
 
 
