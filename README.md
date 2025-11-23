@@ -1,29 +1,56 @@
-<h1 align="center">Hi, I'm Nawal 👩🏻‍💻</h1>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&width=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+</div>
+
+<div align="center">
+  <img height="181" src="https://i.pinimg.com/originals/aa/27/62/aa2762f2783a3026e13e4a888814fe21.gif"  />
+</div>
+
+###
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nawalmalki&label=Profile%20views&color=0e75b6&style=flat" alt="nawalmalki" /> </p>
-<img src="https://github.com/NawalMalki/NawalMalki/blob/main/English-header.png"/>
 
 
-- 🔭 I’m currently working on a business idea that'll help people out.
+<div align="center">
+ <a href="https://www.linkedin.com/in/nawalmalki/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+</a>
+   <a href="https://codepen.io/Malki-Nawal" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
+   </a>
+<a href="mailto:nawal.malki.engineering@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+</a>
 
-- 🌱 I’m currently learning **Machine learning**
-
-
-
-<h3 align="left">Find me around the web 🌐</h3>
-<ul>
-  <li>💻 <a href="https://mlk-nawal-site.vercel.app/">My portfolio</a></li>
-  <li>📝 <a href="https://codingquill.tumblr.com/">My personal blog</a> </li>
-</ul>
-
-<h3 align="left">Get in touch with me</h3>
-<ul>
-  <li>📩 <a href="mailto:nawal.malki.engineering@gmail.com">nawal.malki.engineering@gmail.com</a></li>
-</ul>
+   </div>
 
 
----
 
-🔧 **Technologies and Tools I Work With:**
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&width=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+</div>
+
+
+<h1 align="center">Hi there, I'm Nawal</h1>
+
+
+- I’m currently **looking for a 6 months internship**
+
+
+
+# Technologies and Tools I Work With:
 
 | Frontend                          | Backend         | Databases    | Version Control            | Project Management        | CI/CD & Containerization |
 |-----------------------------------|-----------------|--------------|----------------------------|---------------------------|---------------------------|
@@ -35,9 +62,9 @@
 | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |              |              |                            |                           |                           |
 
 ---
-
   
-<br/>
-<br/>
+
+
+
   
   
